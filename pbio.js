@@ -1,0 +1,11 @@
+let name = "Asif";
+let age = 21;
+let fevFood = "Biriyani";
+let fevLanguage = "Javascript";
+let loveCoding = true;
+console.log('Hello!');
+console.log('My name is', name);
+console.log('I am a', age ,'years old.');
+console.log('My Favorite Food is', fevFood);
+console.log('My Favorite programming language is', fevLanguage);
+console.log('I loves coding!', loveCoding);
